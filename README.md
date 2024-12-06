@@ -33,6 +33,8 @@ Uygulamaya ait ekran görüntüleri:
 
 <div align="center">
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/1.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/733117885b86e824b5869ead51928de8f0af0e51/Screen_Shots/kvkk_1.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/733117885b86e824b5869ead51928de8f0af0e51/Screen_Shots/kvkk_2.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/2.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/3.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/4.png" width="300"/>
@@ -41,6 +43,4 @@ Uygulamaya ait ekran görüntüleri:
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/7.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/8.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/9.png" width="300"/>
-
-  
 </div>
