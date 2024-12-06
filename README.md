@@ -31,11 +31,11 @@
 ## 📸 Ekran Görüntüleri
 Uygulamaya ait ekran görüntüleri:
 
+[Uygulama Videosunu İndir](https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e98848162d49362538e443795258a9ec0ba4ec71/%C3%BCr%C3%BCn_takip_g%C3%BCncel.mp4)
+[Uygulama Videosunu İndir](https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e98848162d49362538e443795258a9ec0ba4ec71/%C3%BCr%C3%BCn_takip_g%C3%BCncel.mp4)
 <div align="center">
- 
- [Uygulama Videosunu İndir](https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e98848162d49362538e443795258a9ec0ba4ec71/%C3%BCr%C3%BCn_takip_g%C3%BCncel.mp4)
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/1.png" width="300"/>
- <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/2.png" width="300"/>
+  <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/2.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/733117885b86e824b5869ead51928de8f0af0e51/Screen_Shots/kvkk_1.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/733117885b86e824b5869ead51928de8f0af0e51/Screen_Shots/kvkk_2.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/3.png" width="300"/>
