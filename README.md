@@ -31,8 +31,8 @@
 ## 📸 Ekran Görüntüleri
 Uygulamaya ait ekran görüntüleri:
 
-[Uygulama Videosunu İndir](https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/d30ad8927809037acb261d5d84505967bc9e2cd9/%C3%BCr%C3%BCn_takip.mp4)
-[Uygulama Videosunu İndir](https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e98848162d49362538e443795258a9ec0ba4ec71/%C3%BCr%C3%BCn_takip_g%C3%BCncel.mp4)
+[Uygulama 1.Videosunu İndir](https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/d30ad8927809037acb261d5d84505967bc9e2cd9/%C3%BCr%C3%BCn_takip.mp4)
+[Uygulama 2.Videosunu İndir](https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e98848162d49362538e443795258a9ec0ba4ec71/%C3%BCr%C3%BCn_takip_g%C3%BCncel.mp4)
 <div align="center">
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/1.png" width="300"/>
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/2.png" width="300"/>
