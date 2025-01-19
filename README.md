@@ -47,9 +47,4 @@ Uygulamaya ait ekran görüntüleri:
   <img src="https://github.com/Ahmetyilmazz/Service-Tracking-Software/blob/e2f987ebc17f1cdbdf1ad3d78f25ccf32cff31bc/Screen_Shots/9.png" width="300"/>
 </div>
 
-## 🚀 Kurulum
-Bu projeyi çalıştırmak için aşağıdaki adımları takip edin:
-1. Bu projeyi klonlayın:
-   ```bash
-   git clone https://github.com/Ahmetyilmazz/Service-Tracking-Software.git
 
